@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AppChap3 Tickets</string>
+    <string name="txtTitle"> txtTitle</string>
+    <string name="selectPrice"></string>
+    <string name="btnCost"></string>
+
+    <string-array name="txtGroup">
+        <item>Sabaton</item>
+        <item>Rise Against</item>
+        <item> ONEOKROCK</item>
+        <item> ChainSmokers</item>
+        <item> All time low </item>
+        <item>Theory of a Deadman</item>
+
+    </string-array>
+</resources>
