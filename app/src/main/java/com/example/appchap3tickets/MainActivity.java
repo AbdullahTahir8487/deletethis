@@ -12,7 +12,7 @@ import android.widget.TextView;
 import java.text.DecimalFormat;
 
 public class MainActivity extends AppCompatActivity {
-
+// test dddddddddddddddddddddddddddddddddddd
 
     double ticketCost=8.00 ;
     int numbertickets;
